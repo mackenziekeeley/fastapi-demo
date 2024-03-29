@@ -10,7 +10,7 @@ env:
   # Best practice to hard-code your GitHub username below in LOWERCASE.
   # Update to your own username.
   IMAGE_NAME: nmagee/fastapi-demo
-  IMAGE_TAG: mackenziekeeley # GITHUB_RUN_NUMBER
+  IMAGE_TAG: 1.mackenziekeeley/fastapi-demo # GITHUB_RUN_NUMBER
   DOCKER_BUILDKIT: 1
 
 jobs:
